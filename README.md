@@ -20,6 +20,7 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Python Beginner Tutorial: for Loops and Iterators](https://www.codementor.io/python/tutorial/python-generators-and-iterators)
   - [Python 2.7 vs Python 3.4 ─ What should Python Beginners choose?](https://www.codementor.io/python/tutorial/python-2-7-vs-python-3-4)
   - [Introduction to Python Decorators](https://www.codementor.io/python/tutorial/introduction-to-decorators)
+  - [Beginner's Guide to Debugging Python: Print Statements](https://www.codementor.io/python/tutorial/how-to-debug-python-code-beginners-print-line)
   - [How to Create Custom Exceptions in Python](https://www.codementor.io/python/tutorial/python-custom-exception)
   - [A SQLAlchemy Cheat Sheet](https://www.codementor.io/python/tutorial/understanding-sqlalchemy-cheat-sheet)
   - [Python Framework Comparison: Django vs. Pyramid](https://www.codementor.io/python/tutorial/django-vs-pyramid-python-framework-comparison)
