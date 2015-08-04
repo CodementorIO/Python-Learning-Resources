@@ -31,6 +31,11 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Martijn Pieters on the Future of Django](https://www.codementor.io/python/tutorial/martijn-pieters-future-django)
   - [Python Internals: Codementor Office Hours with Martijn Pieters](https://www.codementor.io/python/tutorial/python-internals-codementor-office-hours-martijn-pieters)
 
+## Data Science with Python
+  - [Data Frames with Python & R](https://www.codementor.io/python/tutorial/python-vs-r-for-data-science-data-frames-i)
+  - [Exploratory Data Analysis](https://www.codementor.io/python/tutorial/data-science-python-r-exploratory-data-analysis-visualization)
+  - [Dimension Reduction & Clustering](https://www.codementor.io/python/tutorial/data-science-python-pandas-r-dimensionality-reduction)
+
 
 ## Tips
   - [How do I remove the first and last rows and columns from a 2D numpy array?](https://www.codementor.io/tips/2843378231/how-do-i-remove-the-first-and-last-rows-and-columns-from-a-2d-numpy-array)
