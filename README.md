@@ -31,13 +31,14 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [6 Useful Python Libraries Recommended by #1 Stack Overflow Answerer](https://www.codementor.io/python/tutorial/6-useful-python-libraries)
   - [Martijn Pieters on the Future of Django](https://www.codementor.io/python/tutorial/martijn-pieters-future-django)
   - [Python Internals: Codementor Office Hours with Martijn Pieters](https://www.codementor.io/python/tutorial/python-internals-codementor-office-hours-martijn-pieters)
+  - [Building a Simple Snake Game with Python](https://www.codementor.io/python/tutorial/build-snake-game-using-curses)
 
 ## Data Science with Python
   - [Data Frames with Python & R](https://www.codementor.io/python/tutorial/python-vs-r-for-data-science-data-frames-i), [Part 2](https://www.codementor.io/python/tutorial/python-vs-r-data-science-data-frames-ii)
   - [Exploratory Data Analysis](https://www.codementor.io/python/tutorial/data-science-python-r-exploratory-data-analysis-visualization)
   - [Dimension Reduction & Clustering](https://www.codementor.io/python/tutorial/data-science-python-pandas-r-dimensionality-reduction)
   - [Sentiment Classification Using Linear Methods](https://www.codementor.io/python/tutorial/data-science-python-r-sentiment-classification-machine-learning)
-  - [Building a Wine Review & Recommendation Site with Django](https://www.codementor.io/python/tutorial/get-started-with-django-building-recommendation-review-app), [Part 2](https://www.codementor.io/python/tutorial/build-data-product-django-user-management), Part 3 (Coming Soon)
+  - [Building a Wine Review & Recommendation Site with Django](https://www.codementor.io/python/tutorial/get-started-with-django-building-recommendation-review-app), [Part 2](https://www.codementor.io/python/tutorial/build-data-product-django-user-management), [Part 3](https://www.codementor.io/python/tutorial/build-data-products-django-machine-learning-clustering-user-preferences)
 
 ## Python & Apache Spark
   - [Getting Data into the basic Spark data structure: Resilient Distributed Datasets](https://www.codementor.io/spark/tutorial/spark-python-rdd-basics), [Part 2](https://www.codementor.io/spark/tutorial/spark-python-data-aggregations)
