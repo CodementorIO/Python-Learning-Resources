@@ -4,6 +4,7 @@ Python is an easy to learn language many beginners to coding choose as their fir
 ## Best Collection of Python Tutorials
   - Learning Guide- [Learn Python Online](https://www.codementor.io/learn-python-online)
   - Tutorial- [Python Tutorials for Beginners and Programmers](https://www.codementor.io/python/tutorial)
+  - Curated by Hackr.io- [Python Resources](https://hackr.io/tutorials/learn-python)
 
 ## Online Help
   - Online Experts- [1:1 Python Help from Proven Experts](https://www.codementor.io/python-experts)
