@@ -14,7 +14,8 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Learn Python](http://www.learnpython.org/)
   - [Python for You and Me](http://pymbook.readthedocs.org/en/py3/)
   - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
-  - [edX Introduction to Computer Science and Programming Using Python] (https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5)
+  - [edX Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5)
+  - [Sentdex Tutorials](https://pythonprogramming.net/)
 
 ## General Topics for Beginners
   - [Python Tutorials for Beginners and Programmers ](https://www.codementor.io/python/tutorial)
@@ -96,4 +97,9 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Scrapy](http://scrapy.org/)
   - [Robobrowser](http://robobrowser.readthedocs.org/en/latest/)
   - [PyGame](http://pygame.org/news.html)
+  - [Jupyter Notebook](http://jupyter.org/)
+  - [Anaconda](https://www.anaconda.com/what-is-anaconda/)
+  ## InterActive Book
+  - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
+  
 
