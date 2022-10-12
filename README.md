@@ -78,6 +78,7 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Live Python Class](https://www.codementor.io/classes/learn-python-live)
   - [MIT Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
   - [Programming for Everybody (Python)](https://www.coursera.org/course/pythonlearn)
+  - [Learn Python Programming](https://www.scaler.com/topics/python/)
   - [Google's Python Class](https://developers.google.com/edu/python/?hl=de-DE&csw=1)
   - [Lynda.com](http://www.lynda.com/Python-training-tutorials/415-0.html)
   - [Intro to Computer Science](https://www.udacity.com/course/ud036)
