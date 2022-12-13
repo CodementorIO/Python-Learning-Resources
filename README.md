@@ -82,6 +82,7 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Lynda.com](http://www.lynda.com/Python-training-tutorials/415-0.html)
   - [Intro to Computer Science](https://www.udacity.com/course/ud036)
   - [Code School's Try Python](https://www.codeschool.com/courses/try-python)
+  - [Python Programming in Detail](https://www.scaler.com/topics/python/)
 
 
 ## Developer Tools
