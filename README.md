@@ -40,6 +40,7 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Dimension Reduction & Clustering](https://www.codementor.io/python/tutorial/data-science-python-pandas-r-dimensionality-reduction)
   - [Sentiment Classification Using Linear Methods](https://www.codementor.io/python/tutorial/data-science-python-r-sentiment-classification-machine-learning)
   - [Building a Wine Review & Recommendation Site with Django](https://www.codementor.io/python/tutorial/get-started-with-django-building-recommendation-review-app), [Part 2](https://www.codementor.io/python/tutorial/build-data-product-django-user-management), [Part 3](https://www.codementor.io/python/tutorial/build-data-products-django-machine-learning-clustering-user-preferences)
+  - [Build a Robo Advisor with Python (From Scratch)](https://www.manning.com/books/build-a-robo-advisor-with-python-from-scratch)
 
 ## Python & Apache Spark
   - [Getting Data into the basic Spark data structure: Resilient Distributed Datasets](https://www.codementor.io/spark/tutorial/spark-python-rdd-basics), [Part 2](https://www.codementor.io/spark/tutorial/spark-python-data-aggregations)
