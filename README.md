@@ -33,6 +33,7 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Martijn Pieters on the Future of Django](https://www.codementor.io/python/tutorial/martijn-pieters-future-django)
   - [Python Internals: Codementor Office Hours with Martijn Pieters](https://www.codementor.io/python/tutorial/python-internals-codementor-office-hours-martijn-pieters)
   - [Building a Simple Snake Game with Python](https://www.codementor.io/python/tutorial/build-snake-game-using-curses)
+  - [Learn AI-Assisted Python Programming](https://www.manning.com/books/learn-ai-assisted-python-programming)
 
 ## Data Science with Python
   - [Data Frames with Python & R](https://www.codementor.io/python/tutorial/python-vs-r-for-data-science-data-frames-i), [Part 2](https://www.codementor.io/python/tutorial/python-vs-r-data-science-data-frames-ii)
